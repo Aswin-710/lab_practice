@@ -1,0 +1,17 @@
+body{
+margin: 0;
+}
+.section{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#about{
+    background-origin: padding-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(19, 141, 255);
+    min-height: 50vh;
+}
